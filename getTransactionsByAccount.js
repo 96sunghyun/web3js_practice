@@ -11,7 +11,7 @@ getTransactionsByAccount() 함수는 다음의 기능을 가지고 있습니다.
 // web3 require
 Web3 = require("web3");
 // ropstenNetwork node URL
-const rpcURL = "https://ropsten.infura.io/v3/e143857ba53e44438767f86317915892";
+const rpcURL = "";
 // web3 객체 생성
 const web3 = new Web3(rpcURL);
 // 검색할 계정 변수에 할당
